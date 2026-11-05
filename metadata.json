@@ -1,0 +1,8 @@
+{
+  "name": "Remix Romantic Birthday Wishes",
+  "description": "A magical, emotional, and romantic birthday surprise website with music, memories gallery, animated love letter, and floating petals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
